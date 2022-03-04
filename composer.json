@@ -1,5 +1,5 @@
 {
-  "name": "silasjoisten/sonata-oauth2-login-bundle",
+  "name": "asgoodasnu/sonata-oauth2-login-bundle",
   "type": "symfony-bundle",
   "description": "Login via Google with Email Validation in a Sonata Project",
   "license": "MIT",
